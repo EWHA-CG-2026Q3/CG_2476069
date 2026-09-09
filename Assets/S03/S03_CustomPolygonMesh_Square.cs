@@ -16,12 +16,11 @@ public class S03_CustomPolygonMesh_Pentagon : MonoBehaviour
         };
 
         // TODO 2: 정점 3개씩 묶어 삼각형들을 구성하세요
-        int[] triangles = new int[4]
+        int[] triangles = new int[]
         {
-              // 예: 0, 1, 2,
-              0, 1, 2,
-              0, 2, 3,
-
+            0, 1, 2,
+            1, 2, 3,
+            2, 3, 4,
         };
 
         Mesh mesh = new Mesh();

@@ -26,6 +26,8 @@ public class S04_CustomDiamondMesh : MonoBehaviour
             3,2,4,
             0,3,4,
             // 아래쪽 4면 (정점 5 사용)
+            5,0,1,
+            5,1,2,
         };
 
         Mesh mesh = new Mesh();

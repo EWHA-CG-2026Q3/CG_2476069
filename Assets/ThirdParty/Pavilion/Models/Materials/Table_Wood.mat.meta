@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f131586425ebf604db1386725a617ff8
+timeCreated: 1490272794
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85680
+  packageName: Pavilion
+  packageVersion: 1.1
+  assetPath: Assets/IGBlocks/Pavilion/Models/Materials/Table_Wood.mat
+  uploadId: 892842

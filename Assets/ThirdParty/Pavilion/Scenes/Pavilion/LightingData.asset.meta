@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1a48da26051bdc842841fada7e780ec9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85680
+  packageName: Pavilion
+  packageVersion: 1.1
+  assetPath: Assets/IGBlocks/Pavilion/Scenes/Pavilion/LightingData.asset
+  uploadId: 892842

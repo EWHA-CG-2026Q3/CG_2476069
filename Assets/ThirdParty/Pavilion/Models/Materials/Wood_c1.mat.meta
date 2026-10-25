@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c6e5180862b445a468f913769d3bcd5b
+timeCreated: 1492613347
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85680
+  packageName: Pavilion
+  packageVersion: 1.1
+  assetPath: Assets/IGBlocks/Pavilion/Models/Materials/Wood_c1.mat
+  uploadId: 892842

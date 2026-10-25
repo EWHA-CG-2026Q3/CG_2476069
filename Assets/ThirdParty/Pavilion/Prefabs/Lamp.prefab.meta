@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ad16ba337e6ebf446a0805da4781c41d
+timeCreated: 1490273047
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85680
+  packageName: Pavilion
+  packageVersion: 1.1
+  assetPath: Assets/IGBlocks/Pavilion/Prefabs/Lamp.prefab
+  uploadId: 892842
